@@ -38,12 +38,12 @@ For a better understanding of what this example is and why it exists, you can ju
 
 ## Other code examples in this series
 
-- [Example 1 - All simply static](https://findthat.at/jamstack/ex1) (👈 you are here)
-- [Example 2 - Changing the DOM with JavaScript](https://findthat.at/jamstack/ex2)
-- [Example 3 - Introducing a static site generator](https://findthat.at/jamstack/ex3)
-- [Example 4 - Generating pages from a content API](https://findthat.at/jamstack/ex4)
-- [Example 5 - Generating localized pages, with geo-IP routing at the CDN](https://findthat.at/jamstack/ex5)
-- [Example 6 - Client-side rendering targeted API content](https://findthat.at/jamstack/ex6)
+- [Example 1 - All simply static](https://github.com/peirstom/JAMstackCourse-1-all-static) (👈 you are here)
+- [Example 2 - Changing the DOM with JavaScript](https://github.com/peirstom/JAMstackCourse-2)
+- [Example 3 - Introducing a static site generator](https://github.com/peirstom/JAMstackCourse-3)
+- [Example 4 - Generating pages from a content API](https://github.com/peirstom/JAMstackCourse-4)
+- [Example 5 - Generating localized pages, with geo-IP routing at the CDN](https://github.com/peirstom/JAMstackCourse-5)
+- [Example 6 - Client-side rendering targeted API content](https://github.com/peirstom/JAMstackCourse-6)
 
 
 ## More JAMstack resources to explore
